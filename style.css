@@ -73,6 +73,7 @@ body {
     font-weight: 700;
     margin: 0 10px;
     text-transform: uppercase;
+    cursor: pointer;
 }
 
 .login {
