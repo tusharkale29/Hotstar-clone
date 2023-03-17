@@ -9,7 +9,7 @@ body{
     background:#0c111b;
     position: relative;
     font-family: roboto,sans-serif;
-
+    overflow-x: hidden;
 }
 .navbar{
     width: 100%;
@@ -128,6 +128,9 @@ body{
     line-height: 16px;
     letter-spacing: normal;
     font-weight: 600;
+}
+a{
+    text-decoration: none;
 }
 
 .info p {
